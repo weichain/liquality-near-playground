@@ -1,5 +1,3 @@
-import { keyStores } from 'near-api-js';
-
 const CONTRACT_NAME = process.env.CONTRACT_NAME || 'new-awesome-project';
 
 function getConfig(env) {
@@ -23,9 +21,6 @@ function getConfig(env) {
         walletUrl: 'https://wallet.testnet.near.org',
         helperUrl: 'https://helper.testnet.near.org',
         explorerUrl: 'https://explorer.testnet.near.org',
-        deps: {
-          keyStore: new keyStores.BrowserLocalStorageKeyStore(),
-        },
       };
     case 'betanet':
       return {
