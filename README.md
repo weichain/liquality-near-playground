@@ -6,10 +6,6 @@ Install dependencies:
 yarn
 ```
 
-```
-yarn start
-```
-
 ## To compile
 
 ```
