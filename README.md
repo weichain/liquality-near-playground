@@ -1,7 +1,5 @@
 # Liqality example in AssemblyScript
 
-## Setup [Or skip to Login if in Gitpod](#login)
-
 Install dependencies:
 
 ```
