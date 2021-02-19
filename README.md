@@ -1,4 +1,4 @@
-# Liqality example in AssemblyScript
+# Liquality example in AssemblyScript
 
 Install dependencies:
 
